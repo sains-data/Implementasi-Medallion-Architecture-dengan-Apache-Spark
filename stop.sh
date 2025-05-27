@@ -1,1 +1,0 @@
-docker stop bigdata-spark
