@@ -1,4 +1,4 @@
-# Implementasi Medallion Architecture untuk Pengelompokan Produk pada Transaksi E-Commerce
+# Implementasi Medallion Architecture dengan Apache Spark untuk Pengelolaan dan Pengelompokan Data Transaksi E-Commerce
 
 ## Deskripsi  
 Project ini mengimplementasikan pipeline data menggunakan **Medallion Architecture** untuk pengelompokan produk berdasarkan data transaksi e-commerce wilayah Lampung/Sumatera. Pipeline dibangun menggunakan **Apache Spark** yang berjalan di dalam **Docker container** berbasis Ubuntu 24.04.
