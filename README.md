@@ -3,6 +3,13 @@
 ## Deskripsi  
 Project ini mengimplementasikan pipeline data menggunakan **Medallion Architecture** untuk pengelompokan produk berdasarkan data transaksi e-commerce wilayah Lampung/Sumatera. Pipeline dibangun menggunakan **Apache Spark** yang berjalan di dalam **Docker container** berbasis Ubuntu 24.04.
 
+## Anggota Kelompok  
+- YOGY SA`E TAMA — 121450041  
+- ALVIA ASRINDA BR.GINTING — 122450077  
+- IRHAMNA MAHDI — 122450049  
+- Danang Hilal Kurniawan — 122450085  
+- Daffa Ahmad Naufal — 122450137
+  
 ## Arsitektur Medallion  
 - **Bronze Layer**: Menyimpan data mentah transaksi produk dalam format CSV.  
 - **Silver Layer**: Data sudah dibersihkan, fitur teks diekstraksi menggunakan TF-IDF dan PCA, serta data siap untuk analisis.  
