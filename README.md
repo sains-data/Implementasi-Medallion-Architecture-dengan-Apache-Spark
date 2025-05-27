@@ -55,7 +55,7 @@ Project ini mengimplementasikan pipeline data menggunakan **Medallion Architectu
 ## Struktur Folder Project
 `pipeline_medallion.py` — Script pipeline utama
 
-`export_gold_to_csv.py` — (Opsional) Script ekspor hasil Gold ke CSV
+`export_gold_to_csv.py` — Script ekspor hasil Gold ke CSV
 
 `Dockerfile`, `build.sh`, `start.sh`, `login.sh`, `stop.sh` — Konfigurasi dan skrip Docker
 
