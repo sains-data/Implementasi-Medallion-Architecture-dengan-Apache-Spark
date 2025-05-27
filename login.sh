@@ -1,1 +1,0 @@
-docker exec -it bigdata-spark "/bin/bash"
